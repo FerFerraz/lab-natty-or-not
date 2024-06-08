@@ -3,10 +3,9 @@
 ### E-book O Guia Completo do Churrasco Perfeito: Uma Festa de Sabores! 
 
 ```markdown
-# E-book O Guia Completo do Churrasco Perfeito: Uma Festa de Sabores! 
 
 ## 📒 Descrição
-
+Desafio da DIO para utilização de IAs generativas para criar conteúdos do interesse pessoal.
 
 ## 🤖 Tecnologias Utilizadas
 Como forma de aprendizado sobre IA utilizei as ferramentas:
